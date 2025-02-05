@@ -358,7 +358,13 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.47f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.47f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Free Pixel Art Forest/Demo/MoveBackground.cs"
-"Assets/Polytope Studio/Lowpoly_Characters/Sources/Scripts/PT_Create_Prefab.cs"
+"Assets/Scripts/GameManager.cs"
+"Assets/Scripts/highScore.cs"
+"Assets/Scripts/MainMenu.cs"
+"Assets/Scripts/MoveLeft.cs"
+"Assets/Scripts/PlayerController.cs"
+"Assets/Scripts/RepeatBackground.cs"
+"Assets/Scripts/SpawnManager.cs"
 -langversion:9.0
 /deterministic
 /optimize-
